@@ -1,0 +1,2 @@
+# kindior_upload_controller
+富文本框图片上传，改为了controller方法，适用于springMVC
